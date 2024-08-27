@@ -64,3 +64,6 @@ footer{
     width: 100px;
     border:none;
 }
+.button-enviar:hover{
+    background-color: #808080a2;
+}
