@@ -55,6 +55,7 @@ footer{
     border-radius: 10px;
     border:none;
 }
+
 .button-enviar{
     margin-top: 5px;
     padding:8px 28px;
@@ -63,7 +64,3 @@ footer{
     width: 100px;
     border:none;
 }
-
-.button-enviar:hover{
-    background-color: #808080a2;
-} 
